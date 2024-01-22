@@ -1,0 +1,10 @@
+version: "3"
+services:
+  nginx:
+    container_name: llm-v1
+    build:
+      context: .
+      dockerfile: Dockerfile
+    image: llm-v1:latest
+    ports: 
+      - "8080:80"

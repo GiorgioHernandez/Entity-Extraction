@@ -1,0 +1,364 @@
+filename,process_time(seconds),cost(USD),fecha_orden,nombre_paciente,id_paciente,tipo_identidad,area,cantidad_sesiones,bool_domicilio,nombre_medico,convenio,remitida_a
+data/PSICOLOGIA/JUAN MANUEL BRAVO.jpeg,5.3100,0.0020,2022/04/20,JOSE MANUEL BRAVO GOMEZ,1034519238,Tarjeta de Identidad (TI),psicologia,20.0000,Si,Sin información,Sin información,RIIE
+data/PSICOLOGIA/ANTONELLA ROJAS.jpeg,5.9300,0.0018,Sin información,Sin información,Sin información,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/Gabriela CASTRO.pdf,7.6100,0.0020,22/04/2022,Gabriela Castro,1070026364,CC,Sin información,20.0000,Si,Ana Carolina Montañez Jimenez,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/sandra rincon monte.jpeg,7.0800,0.0020,26/02/2013,SANDRA RINCON MONTERO,51.792.975,CC,Sin información,10.0000,Si,DRA. MILENA OLMOS,Sin información,RIIE
+data/FONOAUDIOLOGIA/sabella rojas pacheco.jpeg,4.8900,0.0018,2022/04/26,Isabela Rojas Pacheco,Sin información,CC,fonoaudiologia,2.0000,Si,Sin información,Sin información,RIIE
+data/TERAPIA FISICA/elvia sil.jpeg,6.9600,0.0019,26/02/2013,Sin información,Sin información,CC,fisioterapia,510.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/beatriz helena martin.jpeg,6.3300,0.0021,Sin información,MELENA CORTEZ MARTINEZ,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/orlando gomez alquichi.pdf,7.5500,0.0024,2022/04/18,ORLANDO GOMEZ ALQUICHIRE,79473744,Cédula de Ciudadanía (CC),Sin información,12.0000,No,MARGARITA MARIA VARGAS DONOSO,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/jorge mario saavedra yas.jpeg,5.3800,0.0018,2022/04/05,Sin información,Sin información,CC,fonoaudiologia,20.0000,Si,Sin información,Sin información,RIIE
+data/TERAPIA FISICA/elvia silva.jpeg,6.2300,0.0019,26/02/2013,Sin información,Sin información,CC,fisioterapia,510.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/federico avila leguizamo.jpeg,5.1500,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/NELSON ALBERTO CASTAÑED.jpeg,5.8000,0.0021,Sin información,MARTA CORREA OSPINA,5483382,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/IRENE GIL.pdf,5.9500,0.0021,12/4/2022,IRENE GIL,35.455.139,CC,Sin información,12.0000,Si,DRA.MILENA OLMOS,Sin información,RIIE
+data/TERAPIA FISICA/ligia janeth jimenez.pdf,12.6300,0.0044,2022/04/12,LIGIA JANNETH JIMENEZ BOLIVAR,51838272,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/THOMAS ALVAREZ.jpeg,4.7400,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/ALEJANDRO RINCON.jpeg,6.3000,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/Laura RAMIREZ.pdf,7.5600,0.0019,27/04/2022,Laura Ramírez,1014890455,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/STEFANY ARDILA.jpeg,5.4200,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/santiago zarate palacio.jpeg,5.1900,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/NUBIA ACEVEDO.pdf,6.6600,0.0021,26  4  2022,NUBIA ACEVEDO,52.881.880,CC,psicologia,20.0000,Si,Alvaro Burbano,Sin información,RIIE
+data/PSICOLOGIA/LUIS MIGUEL DIAZ.jpeg,5.5600,0.0018,2022/04/25,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/julieta gomez ramirez.pdf,6.7300,0.0025,2022/04/25,JON,5585630,Sin información,fonoaudiologia,8.0000,No,Teresita de Jesus Meza Caballero,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MARIA ANDREA GONZALEZ.pdf,7.6600,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/lucio eduardo feuillet rosero.jpeg,6.9500,0.0026,2022-10-23,Sin información,5452197,Cédula de Ciudadanía (CC),fonoaudiologia,30.0000,Si,Liliana Maria Correa Ospina,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MARIA LUCIA LEON GOMEZ.jpeg,5.2500,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/jhon emanuel perez cifuentes.jpeg,6.1200,0.0020,25/04/22,Jhon Emanuel Perez Cifuentes,111054881566,CC,psicologia,20.0000,Si,B DUSSÁN,ECOPETROL SA,RIIE
+data/PSICOLOGIA/SARAH JULIANA CARDENAS.jpeg,5.5100,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/JORGE MARIO SAAVEDRA.jpeg,4.8700,0.0018,2022/04/05,Sin información,Sin información,CC,fonoaudiologia,20.0000,Si,Sin información,Sin información,RIIE
+data/TERAPIA FISICA/ALEJANDRO RINCON MON.jpeg,5.5000,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/MARIANA MEDINA SOLANILLA.jpeg,5.1400,0.0018,Sin información,MARIANA MEDINA SOLANILLA,Sin información,CC,Sin información,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MARIA JOSE LLANO NARVAE.pdf,6.1200,0.0023,08 04 2022,MARIA JOSE LLANO NARVAEZ,100193035,CC,Sin información,16.0000,Si,CARLOS ALDANA PATIÑO,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/JUAN SEBASTIAN SANABRIA R.jpeg,4.6800,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/jeronimo sanchez cruz.jpeg,5.7500,0.0017,Sin información,Sin información,Sin información,CC,fonoaudiologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/GUTIERREZ DE PIÑERES BARRIOS MATIAS.pdf,6.7200,0.0021,6  4  2022,GUTIERREZ DE PIÑERES BARRIOS MATIAS,1.014.884.474,Sin información,fonoaudiologia,10.0000,Si,DRA. MILENA OLMOS,Sin información,RIIE
+data/TERAPIA FISICA/alejandro rincon mont.jpeg,5.6900,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/MARINA CRUZ ORTIZ.jpeg,5.8200,0.0020,Sin información,Rina Cruz Ortiz,24241766,Cédula de Ciudadanía (CC),Sin información,20.0000,No,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/RICARDO SALCEDO.pdf,5.5100,0.0020,2022/04/26,Salome Serrano Santos,Sin información,Tarjeta de Identidad (TI),psicologia,25.0000,Si,Ricardo Salcedo,Sin información,RIIE
+data/TERAPIA FISICA/enrique mierez r.jpeg,5.2900,0.0019,01/04/22,Sin información,Sin información,CC,fisioterapia,20.0000,Si,B Dussán,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/isabella rojas p.jpeg,5.8300,0.0018,2022/04/26,Isabela Rojas Pacheco,Sin información,CC,fonoaudiologia,2.0000,Si,Sin información,Sin información,RIIE
+data/PSICOLOGIA/samuel montenegro hernand.jpeg,5.7200,0.0020,06/04/22,Samuel Montenegro Hernandez,111142718625,CC,Sin información,20.0000,Si,B Dussan,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/MARIA TERESA ORTIZ URQUINA.pdf,6.3800,0.0024,2022/05/31,AARIA TERESA ORTIZ URQUINA,26410083,Cédula de Ciudadanía (CC),terapia-ocupacional,8.0000,No,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/alejandro rincon monte.jpeg,6.7400,0.0019,Sin información,Sin información,Sin información,CC,Sin información,12.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/ALEJANDRO RINCON M.jpeg,5.5600,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/DAVID ALEJANDRO DIAZ SALINAS.jpeg,5.5000,0.0017,Sin información,Sin información,Sin información,CC,terapia-ocupacional,8.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/juan sebastian sanabra.jpeg,5.1000,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/federico avila leguizamon.pdf,6.1300,0.0024,2022/04/29,Federico Avila Leguizamon,Sin información,Sin información,psicologia,1.0000,Si,Profesional,Sin información,RIIE
+data/TERAPIA FISICA/MARIA BALVINA FORERO.pdf,7.5900,0.0025,2022/04/22,JARIA BALVINA FORERO DE VALBUENA,20420032,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,Carlos Aldana Patiño,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/JUANITA PALACIOS RODRIGUEZ.pdf,6.8600,0.0021,26/02/2013,JUANITA PALACIOS RODRIGUEZ,1.077.728.412,CC,terapia-ocupacional,5.0000,Si,MILENA OLMOS,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/FELIPE TRUJILLO.pdf,7.1100,0.0022,2022/04/20,ELIPE TRUJILLO LOPEZ,91480962,Cédula de Ciudadanía (CC),FISIOTERAPIA,0.0000,Sin información,LILIANA MARIA CORREA OSPINA,Sin información,RIIE
+data/PSICOLOGIA/CECILIA VALDIVIESO.pdf,6.7300,0.0024,2022/04/03,ECILIA VALDIVIESO DE URIBE,28147114,Cédula de Ciudadanía (CC),psicologia,10.0000,No,TULIA INES GUERRA PINEDA,ECOPETROL SA,RIIE
+data/PSICOLOGIA/THOMAS ALVAREZ G.jpeg,6.1200,0.0019,2022/04/05,THOMAS ALVAREZ GARCIA,1028484966,Tarjeta de Identidad (TI),psicologia,0.0000,Si,Liliana Ivonne Caicedo Ramirez,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/enrique mierez.jpeg,4.9300,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/joseph arango rodriguez.jpeg,6.9300,0.0020,2022/01/19,JOSEPH ARANGO RODRIGUEZ,Sin información,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/maria luisa ortega.jpeg,5.0500,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/Mateo Blackburn.pdf,7.3200,0.0020,07/04/2022,Matteo Blackburn SS,1031426422,CC,terapia-ocupacional,20.0000,Si,Carolina Ramirez,ECOPETROL SA,RIIE
+data/PSICOLOGIA/JENELL GABRIELA LUCENA LOPEZ.pdf,7.0300,0.0026,Sin información,GABRIELA LUCENA LOPEZ,Sin información,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/mateo sandoval nieto.jpeg,5.7200,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/juan manuel villami.jpeg,4.8900,0.0020,11 04 | 2022,Sin información,Sin información,CC,Sin información,20.0000,Si,Ricardo Salcedo,Sin información,RIIE
+data/FONOAUDIOLOGIA/LUCAS CAMARGO.jpeg,4.9100,0.0018,Sin información,Lucas Camargo Santamaria,RC1014889668,Cédula de Ciudadanía (CC),Sin información,20.0000,Si,Sin información,Sin información,RIIE
+data/PSICOLOGIA/LAURA SOFIA QUINTERO MORA.jpeg,6.1200,0.0018,Sin información,LAURA SOFIA QUINTERO MORA,Sin información,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/JUAN CARLOS MOSQUERA RAMIREZ.pdf,8.8900,0.0028,2022/04/28,JUAN CARLOS MOSQUERA RAMIREZ,80055096,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MARIA VICTORIA BONILLA.pdf,7.4000,0.0021,03/04/2022,Sin información,1014896486,CC,psicologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/OTTO ENRIQUE MANJARRES BRAVO.pdf,7.4400,0.0022,2022/04/11,JTTO ENRIQUE MANJARRES BRAVO,12988811,Cédula de Ciudadanía (CC),psicologia,1.0000,No,Jannett Ines Acosta Echeverria,Sin información,RIIE
+data/TERAPIA FISICA/nicolas solano davila.jpeg,5.3100,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/nelson alberto castañeda bbaro.jpeg,5.0400,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/orlando francisco mendigaña paez.pdf,7.1100,0.0023,2022/04/06,ORLANDO FRANCISCO MENDIGAÑA PAEZ,19389012,Cédula de Ciudadanía (CC),fisioterapia,10.0000,Si,MARIA CLEMENCIA RUIZ DE CIFUENTES,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/ELENA MACIAS FLOR.pdf,6.2600,0.0023,,ELENA MACIAS FLOREZ,1014902336,REGISTRO CIVIL,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/SANDRA  VELANDIA HERRERA.pdf,8.1500,0.0026,2022/04/22,SANDRA CONSUELO VELANDIA HERRERA,21176491,Cédula de Ciudadanía (CC),Sin información,20.0000,Sin información,Luis Alfonso Castelblanco Mejia,Sin información,RIIE
+data/TERAPIA FISICA/BEATRIZ HELENA MART.jpeg,6.7500,0.0018,Sin información,BEATRIZ HELENA CORTEZ MARTINEZ,Sin información,CC,fisioterapia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/SANDRA CONSUELO VELANDIA HERRERA.pdf,7.1800,0.0026,2022/04/22,SANDRA CONSUELO VELANDIA HERRERA,21176491,Cédula de Ciudadanía (CC),Sin información,20.0000,Sin información,Luis Alfonso Castelblanco Mejia,Sin información,RIIE
+data/TERAPIA FISICA/aleyda hoyos.jpeg,5.7100,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/antonella rojas monsalve.jpeg,5.7100,0.0018,Sin información,Sin información,Sin información,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/adrian jeronimo.jpeg,5.4200,0.0017,2022/04/28,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/EDWIN DANIEL SANCHEZ..pdf,5.8100,0.0019,04   04  2022,EDWIN DANIEL SANCHEZ,79452107,Cédula de Ciudadanía (CC),Sin información,10.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/EMMA TORRES.pdf,7.3600,0.0020,07/04/2022,Emma Torres,1145935158,CC,Sin información,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/carlos andres medina.pdf,10.8200,0.0019,2022/04/22,CARLOS ANDRES MEDINA CARDOZO,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/matias guiterrez.pdf,6.3000,0.0021,6  4  2022,GUTIERREZ DE PIÑERES BARRIOS MATIAS,1.014.884.474,Sin información,fonoaudiologia,10.0000,Si,DRA. MILENA OLMOS,Sin información,RIIE
+data/PSICOLOGIA/alejandro pardo.pdf,7.3600,0.0020,22/04/2022,Alejandro Pardo,1014893207,CC,psicologia,20.0000,Si,Carolina Ramirez,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/fatima castro.pdf,7.3500,0.0020,22/04/2022,Sin información,1070026365,CC,Sin información,20.0000,Si,Carolina Ramirez,ECOPETROL SA,RIIE
+data/PSICOLOGIA/SAMUEL ARENAS CASTILLO.jpeg,4.9000,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/SALOME AREVALO BLA.jpeg,5.8100,0.0018,Sin información,SALOME AREVALO BLANDON,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/ALEJANDRO PARD.pdf,7.0400,0.0020,22/04/2022,Alejandro Pardo,1014893207,CC,psicologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/sandra ligia mesa benavides.jpeg,6.4200,0.0021,Sin información,SANDRA LIGIA MESA BENAVIDES,52425810,Cédula de Ciudadanía (CC),Sin información,10.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/gabriel medina di.jpeg,6.1000,0.0019,22/04/22,GABRIEL MEDINA DIAZ,1126604056,Sin información,psicologia,0.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/sofia forero rodriguez.PDF,6.8500,0.0023,,SOFIA FORERO RODRIGUEZ,1014878138,Tarjeta de Identidad (TI),Sin información,0.0000,Si,Nayita Alarcon Ballesteros,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MATIAS LUCENA LOPEZ.pdf,6.9400,0.0024,2022/04/29,MATIAS LUCENA LOPEZ,1097203081,Sin información,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/david alejandro rosas ch.jpeg,6.3300,0.0019,2022/04/06,DAVID ALEJANDRO ROSAS CHAMORRO,Sin información,CC,fisioterapia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/Mateo TL (1).pdf,6.8300,0.0020,07/04/2022,Matteo Blackburn SS,1031426422,CC,fonoaudiologia,20.0000,Si,Ana Carolina Montañez Jimenez,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/salome arevalo blandon.jpeg,5.0600,0.0018,Sin información,SALOME AREVALO BLANDON,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/TERAPIA FISICA/AMPARO CAÑAS DE VALENCIA.pdf,6.9200,0.0024,2022/04/11,IMPARO CAÑAS DE VALENCIA,28014602,Cédula de Ciudadanía (CC),Sin información,10.0000,Si,MARIA FERNANDA LEON PEREZ,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/elena fonseca gonzale.jpeg,5.7800,0.0018,2022/04/04,Sin información,Sin información,CC,fonoaudiologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/carolina carrasco.jpeg,5.5100,0.0018,2022/04/25,CAROLINA CARRASCO DIAZ,890108,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/AMELIA MEDINA SOLANILL.jpeg,5.2000,0.0018,4/4/22,AMELIA MEDINA SOLANILLA,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/ADRIAN JERONIOM LESMES.jpeg,8.3700,0.0017,2022/04/28,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/mariana vargas ruiz.pdf,8.0700,0.0023,Sin información,MARIANA ALEJANDRA VARGAS RUIZ,1090389729,Tarjeta de Identidad (TI),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/MARIA JOSE PEREZ VARGAS.jpeg,4.9400,0.0018,Sin información,MARIA JOSE PEREZ VARGAS,Sin información,CC,fonoaudiologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/PSICOLOGIA CECILIA.pdf,7.0600,0.0024,2022/04/03,ECILIA VALDIVIESO DE URIBE,28147114,Cédula de Ciudadanía (CC),psicologia,10.0000,No,TULIA INES GUERRA PINEDA,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/ISABELLA FEDULLO HOYOS.jpeg,6.1300,0.0026,2022/04/25,TA CRISTINA ANGULO,1067613722,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,Maria Cristina Angulo,ECOPETROL SA,RIIE
+data/PSICOLOGIA/JUAN DIEGO ACOSTA FONSECA.jpeg,5.5100,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/Rios Jeronimo rios arvelaez.pdf,7.3600,0.0026,2022/04/05,JERONIMO RIOS ARBELAEZ,937000,Sin información,fonoaudiologia,0.0000,Si,Teresita de Jesus Meza Caballero,ECOPETROL SA,RIIE
+data/PSICOLOGIA/andres goyenehe.jpeg,5.4500,0.0018,22/04/22,ANDRES GOYENECHE MANOTAS,Sin información,CC,psicologia,0.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/JHON EMANUEL PEREZ.jpeg,5.5100,0.0020,25/04/22,Jhon Emanuel Perez Cifuentes,111054881566,CC,psicologia,20.0000,Si,B DUSSÁN,ECOPETROL SA,RIIE
+data/PSICOLOGIA/thomas alvarez garc.jpeg,4.6400,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MIGUEL DAVID BELTRAN VELASCO.pdf,5.9200,0.0018,Sin información,Sin información,Sin información,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MARIA ANDREA GONZALEZ VEGA.pdf,7.4900,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/BLANCA GILMA HERNANDEZ RAMOS.jpeg,5.3500,0.0020,2022/04/26,GILMA HERNANDEZ RAMOS,Sin información,CC,Sin información,10.0000,No,Sin información,Sin información,RIIE
+data/PSICOLOGIA/GABRIEL MEDINA DIAZ.jpeg,5.2000,0.0019,22/04/22,GABRIEL MEDINA DIAZ,Sin información,CC,psicologia,0.0000,Si,B DUSSÁN,Sin información,RIIE
+data/FONOAUDIOLOGIA/VALENTINA RINCON.pdf,6.7500,0.0020,22/04/2022,Valentina Rncon,1014896046,CC,fonoaudiologia,20.0000,Si,Ana Carolina Montañez Jimenez,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/AMELIA MEDINA SOLANILLA.jpeg,5.0700,0.0018,4/4/22,AMELIA MEDINA SOLANILLA,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/miguel enrique reyes.jpeg,5.5200,0.0018,2022/04/27,Miguel Enrique Reyes Duarte,890108,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/iker kublai obando.pdf,6.1700,0.0023,Sin información,IKER KUBLAI OBANDO DIAZ,1016966136,REGISTRO CIVIL,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/LUNA MARIA HERRERA GELVEZ.pdf,6.7300,0.0023,2022/04/25,UNA MARIA HERRERA GELVEZ,1007603849,Cédula de Ciudadanía (CC),Sin información,20.0000,Si,YA ISTINA ANGULO,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MATIAS CAMARGO SANTAMARIA.jpeg,5.1300,0.0019,15/04/22,Matias Camargo Santamaria,1014993539,CC,Sin información,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/jhon emanuel p.jpeg,6.3800,0.0020,25/04/22,Jhon Emanuel Perez Cifuentes,111054881566,CC,psicologia,20.0000,Si,B DUSSÁN,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/ELENA FONSECA.jpeg,4.9000,0.0018,2022/04/04,Sin información,Sin información,CC,fonoaudiologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/juan francesco guerra gutierrez.jpeg,4.7000,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/ISABELLA ROJAS PACHECO.jpeg,5.2100,0.0018,2022/04/26,Isabela Rojas Pacheco,Sin información,CC,fonoaudiologia,2.0000,Si,Sin información,Sin información,RIIE
+data/FONOAUDIOLOGIA/juan sebastian sanabria rios.jpeg,4.7600,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/Alicia Lopez.pdf,6.9400,0.0020,12/04/2022,Alicia Lopez R,1013282393,CC,fonoaudiologia,20.0000,Si,Carolna Ramirez,ECOPETROL SA,RIIE
+data/PSICOLOGIA/juan jacobo angarita rueda.jpeg,6.5400,0.0020,Sin información,JUAN JACOBO ANGARITA RUEDA,1014895911,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/Alejandro Pardoo.pdf,7.6300,0.0020,22/04/2022,Alejandro Pardo,1014893207,CC,psicologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/jorge mario saavedra yasno.jpeg,5.4100,0.0018,2022/04/05,Sin información,Sin información,CC,fonoaudiologia,20.0000,Si,Sin información,Sin información,RIIE
+data/TERAPIA FISICA/enrique mierezz.jpeg,6.0700,0.0018,Sin información,ENRIQUE MIEREZ RUIZ,Sin información,CC,fisioterapia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/TERAPIA FISICA/nelson alberto castañeda barbo.jpeg,4.7900,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/thomas alvarez gar.jpeg,5.8700,0.0019,2022/04/05,THOMAS ALVAREZ GARCIA,1028484966,Tarjeta de Identidad (TI),psicologia,0.0000,Si,Liliana Ivonne Caicedo Ramirez,ECOPETROL SA,RIIE
+data/PSICOLOGIA/Avila leguizamon federico.pdf,5.5000,0.0020,Sin información,Sin información,Sin información,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/JORGE MARIO SAAVEDRA YA.jpeg,5.7100,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/SONIA MILENA CUBIDES RODRIGUEZ.pdf,6.9500,0.0024,2022/04/20,SONIA MILENA CUBIDES RODRIGUEZ,40430450,Cédula de Ciudadanía (CC),Sin información,12.0000,Sin información,Margarita María Vargas Donoso,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/jorge mario saavedra yasn.jpeg,5.2100,0.0018,2022/04/05,Sin información,Sin información,CC,fonoaudiologia,20.0000,Si,Sin información,Sin información,RIIE
+data/TERAPIA OCUPACIONAL/JUAN PABLO RAMIREZ.jpeg,5.0000,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/Sofia Porra.pdf,7.0500,0.0020,14/03/2022,Sofia Porras,1141515449,CC,psicologia,2.0000,Si,Ana Carolina Montañez Jimenez,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/Federico blackburn.pdf,6.9400,0.0020,07/04/2022,Sin información,1031426423,CC,fonoaudiologia,20.0000,Si,Ana Carolina Montañez Jimenez,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/mateo blackburn.pdf,6.7500,0.0020,07/04/2022,Matteo Blackburn SS,1031426422,CC,fonoaudiologia,20.0000,Si,Ana Carolina Montañez Jimenez,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/maria luisa orte.jpeg,2.3100,0.0016,,,,,,,,,,
+data/FONOAUDIOLOGIA/SALOME AREVALO .jpeg,5.1100,0.0018,Sin información,SALOME AREVALO BLANDON,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/JAIME ANDRES PINILLA.jpeg,6.5000,0.0022,2022/04/25,JAIME ANDRES PINILLA BARRETO,1035004436,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/BEATRIZ HELENA MARTINEZ.jpeg,6.0900,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/matthias acosta fons.jpeg,5.4300,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/jhon emanuel pere.jpeg,5.9200,0.0020,25/04/22,Jhon Emanuel Perez Cifuentes,111054881566,CC,psicologia,20.0000,Si,B DUSSÁN,ECOPETROL SA,RIIE
+data/PSICOLOGIA/JORGE ANDRÉS LEON CARVAJAL.pdf,5.9300,0.0021,26/02/2013,JORGE ANDRÉS LEON CARVAJAL,1193581604,CC,Sin información,30.0000,Si,Ruth Armenta Polo,Sin información,RIIE
+data/TERAPIA FISICA/Oscar Abuchar.pdf,5.6100,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/amelia medina solanil.jpeg,5.6200,0.0018,4/4/22,AMELIA MEDINA SOLANILLA,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/TERAPIA FISICA/milena milagro lara lombana.jpeg,6.2400,0.0021,2022/04/07,MILENA MILAGRO LARA LOMBANA,5505149,Sin información,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/gabriel sotelo riaño.jpeg,5.0000,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/blanca gilma hernandez ra.jpeg,5.5600,0.0020,2022/04/26,GILMA HERNANDEZ RAMOS,Sin información,CC,Sin información,10.0000,No,Sin información,Sin información,RIIE
+data/FONOAUDIOLOGIA/maria luisa ortega sepulveda.jpeg,2.8200,0.0016,,,,,,,,,,
+data/TERAPIA FISICA/ernesto esguerra duss.jpeg,5.2600,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/VALERIE MARIN LARA.pdf,6.8400,0.0020,03/04/2022,Valerie Marin Lara,Sin información,CC,psicologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/SARA VICTORIA MARTINEZ.jpeg,5.9500,0.0019,18/4/22,SARA VICTORIA MARTINEZ CONTRERAS,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/TERAPIA FISICA/ERNESTO ESGUERRA.jpeg,4.8100,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/Sebastian Padilla.pdf,5.7300,0.0020,26/02/2013,Sin información,CC,Sin información,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/NICOLAS ORTEGA SEPUL.jpeg,5.3500,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/ANA MARIA ROJAS RUIZ.jpeg,5.3700,0.0019,01/04/22,ANA MARIA ROJAS RUIZ,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/FONOAUDIOLOGIA/SANTIAGO ZARATE.jpeg,5.6200,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/JUAN CAMILO ORJUELA FLOREZ.pdf,5.5200,0.0021,2022/04/22,JUAN CAMILO ORJUELA FLOREZ,1029147881,Tarjeta de Identidad (TI),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/SOPHIA VALENTINA SPILIOPULOS MARFISI.jpeg,7.5600,0.0023,2022/04/27,SOPHIA VALENTINA SPILIOPULOS MARFISI,434622,DULA EXTRANJERÍA,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/JERONIMO TURCA.jpeg,6.3300,0.0021,Sin información,JERONIMO TURCA MORA,Sin información,CC,psicologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/juan jacobo angarita rued.jpeg,6.0100,0.0020,Sin información,JUAN JACOBO ANGARITA RUEDA,1014895911,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/IDILIA BARRERA.pdf,8.5900,0.0024,2022/04/13,ILIA MARIA BARRERA DE BURBANO,27356963,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,Javier Mauricio Gutierrez Blanco,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/maria del pilar bravo gomez.jpeg,5.7100,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/carolina carrasco d.jpeg,5.3000,0.0018,2022/04/25,Sin información,Sin información,CC,fonoaudiologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/matias jaimes barrera.jpeg,5.6200,0.0020,Sin información,MATIAS JAIMES BARRERA,1019608943,Sin información,terapia-ocupacional,15.0000,Sin información,Sin información,Sin información,RIIE
+data/TERAPIA FISICA/martha rocio bonilla alvarado.jpeg,4.3900,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/isabella rojas pa.jpeg,5.7200,0.0019,2022/04/27,ISABELA ROJAS PACHECO,Sin información,CC,psicologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/sara aleandra olivo carvaja.pdf,6.5200,0.0021,,SARA ALEXANDRA OLIVO CARVAJAL,1097500330,Tarjeta de Identidad (TI),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MATTHIAS ACOSTA FONSECA.jpeg,5.1100,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/PABLO HERNANDEZ VALENCIA.pdf,7.3300,0.0024,2022/04/01,PABLO HERNANDEZ VALENCIA,1014889767,REGISTRO CIVIL,psicologia,10.0000,No,MARIA CRISTINA AÑGULO,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/federico blackburn.pdf,6.9500,0.0020,07/04/2022,Sin información,1031426423,CC,terapia-ocupacional,2.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/alejandro rin.jpeg,5.6100,0.0019,Sin información,Sin información,Sin información,CC,Sin información,12.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/santiago gomez ramirez.pdf,7.3500,0.0024,2022/04/25,SANTIAGO GOMEZ RAMIREZ,1014903851,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/VIDAL MARTINEZ .jpeg,4.7900,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/santiago diaz salin.jpeg,4.7400,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/VALERIA ACUÑA RODRIGUEZ.pdf,6.9600,0.0024,2022/04/04,VALERIA ACUÑA RODRIGUEZ,1145926309,REGISTRO CIVIL,fonoaudiologia,10.0000,Si,Carmen Alicia Ulloa Pinto,ECOPETROL SA,RIIE
+data/PSICOLOGIA/VIDAL MARTINEZ.jpeg,5.3400,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/sarah juliana cardenas cardenas.jpeg,5.3100,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/GABRIELA MAYORGA TEJADA.jpeg,5.4000,0.0021,2022/04/06,GABRIELA MAYORGA TEJADA,1013022799,Sin información,fonoaudiologia,16.0000,No,Nayita Alarcon Ballesteros,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/santiago gomez ram.pdf,6.7100,0.0024,2022/04/25,SANTIAGO GOMEZ RAMIREZ,1014903851,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/JOHAN ESTEBAN DIAZ.jpeg,5.8900,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/ORDEN NUBIA ACEVEDO.pdf,6.1200,0.0021,26  4  2022,NUBIA ACEVEDO,52.881.880,CC,psicologia,20.0000,Si,DR ALVARO BURBANO,Sin información,RIIE
+data/TERAPIA OCUPACIONAL/LAURA RAMIREZ.pdf,6.8300,0.0020,27/04/2022,Laura Ramírez,1014890455,CC,Sin información,2.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/lucas camargo santamaria.jpeg,5.2800,0.0019,15/04/22,Lucas Camargo Santamaria,Sin información,CC,psicologia,20.0000,Si,B Dussán,Sin información,RIIE
+data/TERAPIA OCUPACIONAL/NELSON ALBERTO CASTAÑE.jpeg,5.1000,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/nicolas pardo castill.jpeg,5.5600,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/simon saavedr.jpeg,4.8900,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/CALA FERIA LUIS ANGEL.pdf,9.3000,0.0023,2022/04/26,LUIS ANGEL CALA FERIA,1097117426,Tarjeta de Identidad (TI),psicologia,30.0000,Si,MARTHA SANCHEZ DE FRISZ,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/MATIAS ZAPATA.jpeg,5.3000,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/santiago ospino restrepo.jpeg,5.8800,0.0018,17/4/22,SANTIAGO OSPINO RESTREPO,TI1011102641,CC,psicologia,7.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/maria jose llano narvaez.pdf,6.1100,0.0023,08 04 2022,MARIA JOSE LLANO NARVAEZ,100193035,CC,Sin información,16.0000,Si,CARLOS ALDANA PATIÑO,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/enrique mierez ru.jpeg,5.8500,0.0018,Sin información,ENRIQUE MIEREZ RUIZ,Sin información,CC,fisioterapia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/TERAPIA FISICA/carlos alberto cifuentes.jpeg,6.7600,0.0021,2022/04/29,CARLOS ALBERTO CIFUENTES PINZON,79235484,CEDULA CIUDADANÍA,Sin información,0.0000,Si,Mercedes Y Cabrera Quintan,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/ALBA TERESA NUÑEZ.pdf,6.4200,0.0023,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/MARIA LUISA ORTEGA.jpeg,3.0800,0.0016,,,,,,,,,,
+data/PSICOLOGIA/sara alexandra olivo car.pdf,7.3600,0.0021,,SARA ALEXANDRA OLIVO CARVAJAL,1097500330,Tarjeta de Identidad (TI),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/julieta gomez rami.pdf,6.9400,0.0025,2022/04/25,JON,5585630,Sin información,fonoaudiologia,8.0000,No,Teresita de Jesus Meza Caballero,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/juan pablo ramirez cabarique.jpeg,4.9000,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/JUAN CARLOS PALACIOS GONZALEZ.pdf,7.1500,0.0024,2022/03/30,JUAN CARLOS PALACIOS GONZALEZ,79488341,Cédula de Ciudadanía (CC),Sin información,10.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/ernesto esguerra dussan.jpeg,4.8200,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/Martín Realpe Rodriguez.jpeg,5.5100,0.0019,Sin información,MARTIN REALPE RODRIGUEZ,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,ECOPETROL SA,RIIE
+data/PSICOLOGIA/ORDEN YESENIA SANTOS.pdf,6.5200,0.0021,1  4  2022,YESENIA SANTOS,63.533.840,CC,psicologia,40.0000,Si,DR ALVARO BURBANO,Sin información,RIIE
+data/PSICOLOGIA/ALIA HELENA CHAGUI ZAPATA.pdf,9.5000,0.0029,2022/04/08,ALIA HELENA CHAGUI ZAPATA,1014895423,REGISTRO CIVIL,Sin información,10.0000,No,Maria Cristina Angulo,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/mateo sandoval ni.jpeg,4.5200,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/david alejandro diaz.jpeg,5.0900,0.0017,Sin información,Sin información,Sin información,CC,terapia-ocupacional,8.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/ligia janneth jimenez bolivaar.jpeg,5.5200,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/sara victoria martinez contreras.jpeg,5.3200,0.0017,18/4/22,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/ORDEN YOLANDA VEGA .pdf,6.8400,0.0021,25  4  2022,YOLANDA VEGA,20.827.964,Cédula de Ciudadanía (CC),Sin información,10.0000,Si,Alvaro Burbano,Sin información,RIIE
+data/FONOAUDIOLOGIA/juan sebastian sanabria rio.jpeg,5.5100,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/sophia valentina spiliopulos.jpeg,7.4700,0.0023,2022/04/27,SOPHIA VALENTINA SPILIOPULOS MARFISI,434622,DULA EXTRANJERÍA,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/nelson alberto castañeda.jpeg,4.7800,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/ALEJANDRO MARIN GARCIA.jpeg,5.5100,0.0018,Sin información,Sin información,Sin información,CC,psicologia,0.0000,Si,Liliana Ivonne Caicedo Ramirez,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/nelson alberto castañeda borbour.jpeg,4.9200,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MIGUEL ENRIQUE REYES DUARTE.jpeg,5.0000,0.0018,2022/04/27,Miguel Enrique Reyes Duarte,890108,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/EMMA TORRES..pdf,7.1400,0.0020,07/04/2022,Emma Torres,1145935158,CC,Sin información,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/juan diego amortegui.jpeg,5.7100,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/MARIA ISABEL  ARISTIZABAL.pdf,7.4600,0.0023,2022/04/05,JARIA ISABEL ARISTIZABAL CARRERO,43014104,Cédula de Ciudadanía (CC),Sin información,10.0000,No,MARIA FERNANDA LEON PEREZ,Sin información,RIIE
+data/TERAPIA OCUPACIONAL/Ana Isabella  Cuello.pdf,7.1200,0.0026,2022/04/19,ANA ISABELLA CUELLO FRANCO,1010966918,Tarjeta de Identidad (TI),terapia-ocupacional,0.0000,No,Teresita de Jesus Meza Caballero,ECOPETROL SA,RIIE
+data/PSICOLOGIA/juan jose rincon mu.jpeg,5.5400,0.0019,21/04/22,Juan Jose Rincon Muñoz,Sin información,CC,psicologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/TERAPIA FISICA/sara juliana cardenas .jpeg,5.2300,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/lucas camargo santamari.jpeg,5.5100,0.0018,Sin información,Lucas Camargo Santamaria,RC1014889668,Cédula de Ciudadanía (CC),Sin información,20.0000,Si,Sin información,Sin información,RIIE
+data/PSICOLOGIA/LUNA MARIA HERRERA GEL.pdf,6.9400,0.0023,2022/04/25,UNA MARIA HERRERA GELVEZ,1007603849,Cédula de Ciudadanía (CC),Sin información,20.0000,Si,YA ISTINA ANGULO,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/federico blackbur.pdf,7.4400,0.0020,07/04/2022,Sin información,1031426423,CC,fonoaudiologia,20.0000,Si,Ana Carolina Montañez Jimenez,ECOPETROL SA,RIIE
+data/PSICOLOGIA/LAURA SOFIA QUINTERO.jpeg,5.6100,0.0018,Sin información,LAURA SOFIA QUINTERO MORA,Sin información,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/Daniel ricardo gomez.pdf,7.1900,0.0024,2022/04/20,JANIEL RICARDO GOMEZ AFANADOR,88159767,Cédula de Ciudadanía (CC),fisioterapia,15.0000,No,Margarita María Vargas Donoso,ECOPETROL SA,RIIE
+data/PSICOLOGIA/maria lucia leon.jpeg,4.7900,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/antonella rojas mons.jpeg,5.5200,0.0018,Sin información,Sin información,Sin información,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/JUAN DAVID SERRANO.jpeg,6.3200,0.0019,15/04/22,Sin información,Sin información,CC,fonoaudiologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/LIGIA JANETH JIMENEZ BOLIVAR.jpeg,5.1600,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/alejandro rinco.jpeg,6.5400,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/edwin daniel sanchez.jpeg,5.8100,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/jaime andres pinilla barret.jpeg,6.1000,0.0019,2022/04/25,JAIME ANDRES PINILLA BARRETO,938303,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/EDUARDO ROJAS.pdf,6.7500,0.0020,04/02/2022,Sin información,1014899639,CC,terapia-ocupacional,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/MATEO SAAVEDRAA.jpeg,5.2800,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/LUCAS CAMARGO SANTAM.jpeg,6.1200,0.0018,Sin información,Lucas Camargo Santamaria,RC1014889668,Cédula de Ciudadanía (CC),Sin información,20.0000,Si,Sin información,Sin información,RIIE
+data/TERAPIA FISICA/PAOLA ANDREA  CLEVES.pdf,6.1700,0.0021,4  4  2022,PAOLA ANDREA CLEVES,55.063.143,CC,Sin información,10.0000,Si,DRA.MILENA OLMOS,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/MATIAS JAIMES BARRERA.pdf,10.3100,0.0029,2022/04/01,VATIAS JAIMES BARRERA,1019608943,REGISTRO CIVIL,Sin información,15.0000,Si,Martha Sanchez de Frisz,Sin información,RIIE
+data/PSICOLOGIA/juan diego acosta f.jpeg,5.0600,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/LIGIA JANNETH JIMENEZ.jpeg,5.7100,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/blanca maria riveros de moreno.jpeg,6.9500,0.0020,Sin información,Mercedes Y. Cabrera Quintan,Sin información,CC,fisioterapia,0.0000,Si,Mercedes Yamile Cabrera Quintana,Sin información,RIIE
+data/TERAPIA FISICA/SANDRA RINCON .jpeg,5.3000,0.0020,Sin información,SANDRA RINCON MONTERO,Sin información,CC,Sin información,10.0000,Si,DRA. MILENA OLMOS,Sin información,RIIE
+data/FONOAUDIOLOGIA/ENRIQUE MIEREZ RUIZ.jpeg,5.4200,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/matias zapata palacios.jpeg,5.2600,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/Juan martin  celis.pdf,7.7600,0.0022,18/04/2022,Juan martin Celis,1014747034,CC,terapia-ocupacional,20.0000,Si,Carolna Ramirez,ECOPETROL SA,RIIE
+data/PSICOLOGIA/juan francisco reyes.jpeg,5.1100,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/jaime andres pinilla ba.jpeg,6.5600,0.0022,2022/04/25,JAIME ANDRES PINILLA BARRETO,1035004436,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/NICOLAS PARDO CASTILLO.jpeg,5.2000,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/vidal martin.jpeg,5.5300,0.0018,Sin información,Sin información,Sin información,CC,terapia-ocupacional,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/SAMUEL VILLAMIZAR GONZALEZ.pdf,6.7400,0.0023,04/04/2022,SAMUEL VILLAMIZAR,1011106263,CC,fonoaudiologia,10.0000,Si,Ricardo Salcedo,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/fatima castr.pdf,6.7300,0.0020,22/04/2022,Sin información,1070026365,CC,Sin información,20.0000,Si,Ana Carolina Montañez Jimenez,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/vidal martinez TO y Psc.jpeg,7.2500,0.0018,Sin información,Sin información,Sin información,CC,terapia-ocupacional,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/beatriz helena cortez martinez.jpeg,8.3800,0.0023,2022/04/18,BEATRIZ HELENA CORTEZ MARTINEZ,Sin información,Cédula de Ciudadanía (CC),FISIOTERAPIA,0.0000,Si,MARGARITA por.,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/ANTONIA PALACIOS RODRIGUEZ.pdf,6.1700,0.0021,26/02/2013,ANTONIA PALACIOS RODRIGUEZ,10.777.333.670,CC,Sin información,5.0000,Si,MILENA OLMOS,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/elena fonseca gonzalez.jpeg,10.1600,0.0018,2022/04/04,Sin información,Sin información,CC,fonoaudiologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/john manuel perez cifuentes.jpeg,5.9400,0.0020,25/04/22,Jhon Emanuel Perez Cifuentes,111054881566,CC,psicologia,20.0000,Si,B DUSSÁN,ECOPETROL SA,RIIE
+data/PSICOLOGIA/zaray arias scarp.jpeg,6.1400,0.0018,Sin información,ZARAY ARIAS SCARPETTA,1076248774,Tarjeta de Identidad (TI),psicologia,4.0000,Sin información,Sin información,Sin información,RIIE
+data/TERAPIA FISICA/OSCAR ABUCHAR CHAMIE.jpeg,6.7000,0.0019,2022/04/26,OSCAR ABUCHAR CHAMIE,Sin información,CC,Sin información,0.0000,Si,Liliana Maria Correa Ospina,Sin información,RIIE
+data/PSICOLOGIA/ADRIAN JERONIMO LESMES CESPEDES.jpeg,6.1200,0.0017,2022/04/28,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/samuel montenegro hernandez.jpeg,6.7300,0.0020,06/04/22,Samuel Montenearo Hernandez,111142718625,CC,Sin información,20.0000,Si,B Dussan,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/YOLANDA VEGA.pdf,6.2300,0.0020,20  4  2022,YOLANDA VEGA,20.827.964,CC,Sin información,10.0000,Si,Alvaro Burbano,Sin información,RIIE
+data/TERAPIA FISICA/ALEJANDRO RINCON MONTERO.jpeg,5.6700,0.0019,Sin información,Sin información,Sin información,CC,Sin información,12.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/SALOME AREVALO.jpeg,5.4200,0.0018,Sin información,SALOME AREVALO BLANDON,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/SARA ALEXANDRA OLIVO CARVAJAL.pdf,7.0400,0.0021,,SARA ALEXANDRA OLIVO CARVAJAL,1097500330,Tarjeta de Identidad (TI),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/NICOLAS SOLANO DAVILA.jpeg,5.9100,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/ANA MERCEDES SANCHEZ.pdf,7.5600,0.0026,2022/04/22,ANA MERCEDES SANCHEZ GARCIA,30343336,Cédula de Ciudadanía (CC),Sin información,10.0000,Sin información,Carlos Aldana Patiño,ECOPETROL SA,RIIE
+data/PSICOLOGIA/juan manuel bravo gomez.jpeg,5.9300,0.0020,2022/04/20,JOSE MANUEL BRAVO GOMEZ,1034519238,Tarjeta de Identidad (TI),psicologia,20.0000,Si,Sin información,Sin información,RIIE
+data/FONOAUDIOLOGIA/LUCAS CAMARGO SANTAMARIA.jpeg,5.5400,0.0018,Sin información,Lucas Camargo Santamaria,RC1014889668,Cédula de Ciudadanía (CC),Sin información,20.0000,Si,Sin información,Sin información,RIIE
+data/FONOAUDIOLOGIA/juan sebastian sanabria.jpeg,5.7200,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/JAIME ANDRES PINILLA BARRETO.pdf,6.8500,0.0024,2022/04/25,JAIME ANDRES PINILLA BARRETO,1035004436,Cédula de Ciudadanía (CC),TERAPIA OCUPACIONAL INTEGRAL,20.0000,No,MARIA CRISTINA ANGULO,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/LUIS ANGEL CALA FERIA.pdf,6.6900,0.0023,2022/05/23,LUIS ANGEL CALA FERIA,1097117426,Tarjeta de Identidad (TI),fonoaudiologia,30.0000,No,MARTHA SANCHEZ DE FRISZ,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/sandra rincon montero.jpeg,7.2300,0.0020,26/02/2013,SANDRA RINCON MONTERO,51.792.975,CC,Sin información,10.0000,Si,DRA. MILENA OLMOS,Sin información,RIIE
+data/TERAPIA FISICA/Carolina rodriguez guarnio.pdf,7.1500,0.0024,2022/04/20,CAROLINA RODRIGUEZ GUARNIZO,52256619,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,MARGARITA MARIA VARGAS DONOSO,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/CAROLINA CARRASCO DIAZ.jpeg,5.2000,0.0018,2022/04/25,Sin información,Sin información,CC,fonoaudiologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/JUAN MANUEL VILLAMIZAR.jpeg,5.2100,0.0020,11 04 | 2022,Sin información,Sin información,CC,Sin información,20.0000,Si,Ricardo Salcedo,Sin información,RIIE
+data/TERAPIA FISICA/EDWIN DANIEL SANCHEZ.pdf,6.9200,0.0023,2022/04/04,DWIN DANIEL SANCHEZ SALAZAR,79452107,Cédula de Ciudadanía (CC),fisioterapia,10.0000,No,DRA. CATALINA SALAZAR,Sin información,RIIE
+data/TERAPIA FISICA/BLANCA MARIA RIVEROS.jpeg,6.1100,0.0022,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/ORDEN NUBIA ACEVED.pdf,6.4800,0.0021,26  4  2022,NUBIA ACEVEDO,52.881.880,CC,psicologia,20.0000,Si,Alvaro Burbano,Sin información,RIIE
+data/TERAPIA OCUPACIONAL/FATIMA ROZO.jpeg,6.0800,0.0019,12 04,Fatima Rozo,1034579381,CC,Sin información,20.0000,Si,Carolina Ramirez,Sin información,RIIE
+data/PSICOLOGIA/luis miguel diaz sep.jpeg,6.5400,0.0021,Sin información,LUIS MIGUEL DIAZ SEPULVEDA,Sin información,Tarjeta de Identidad (TI),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/maria consuelo sanchez salgado.pdf,6.7300,0.0025,2022/04/03,MARIA CONSUELO SANCHEZ SALGADO,41419193,Cédula de Ciudadanía (CC),psicologia,0.0000,Si,TULIA INES GUERRA PINEDA,ECOPETROL SA,RIIE
+data/PSICOLOGIA/maria fernanda urib.jpeg,5.0500,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/MARIA ISABEL FLOREZ.pdf,6.1800,0.0018,04.04.2022,MARIA ISABEL FLOREZ,1019914564,CC,fonoaudiologia,20.0000,Si,Carolina Ramirez,Sin información,RIIE
+data/FONOAUDIOLOGIA/santiago zarate palacios.jpeg,5.3900,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/JOSE MANUEL BRAVO GOMEZ.jpeg,5.0000,0.0020,2022/04/20,JOSE MANUEL BRAVO GOMEZ,1034519238,Tarjeta de Identidad (TI),psicologia,20.0000,Si,Sin información,Sin información,RIIE
+data/TERAPIA FISICA/NELSON ALBERTO CASTAÑEDA.jpeg,7.1400,0.0020,2022/04/04,NELSON ALBERTO CASTAÑEDA BARBOUR,91216911,Cédula de Ciudadanía (CC),Sin información,7.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/iker obando .pdf,7.1600,0.0022,2022/04/29,IKER KUBLAI OBANDO DIAZ,1016966136,Sin información,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/ZARAY ARIAS.jpeg,5.2800,0.0018,Sin información,ZARAY ARIAS SCARPETTA,1076248774,Tarjeta de Identidad (TI),psicologia,4.0000,Sin información,Sin información,Sin información,RIIE
+data/TERAPIA FISICA/SANDRA LIGIA MESA.jpeg,6.3400,0.0021,Sin información,SANDRA LIGIA MESA BENAVIDES,52425810,Cédula de Ciudadanía (CC),Sin información,10.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/ANA M. ROJAS.jpeg,5.8100,0.0019,01/04/22,ANA MARIA ROJAS RUIZ,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/jorge mario saavedra ya.jpeg,6.3300,0.0019,Sin información,JORGE MARIO SAAVEDRA YASNO,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/miguel  david beltran.pdf,5.3100,0.0018,Sin información,Sin información,Sin información,CC,psicologia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/ORDEN NUBIA ACEVEDO domicilio.pdf,6.5100,0.0021,26  4  2022,NUBIA ACEVEDO,52.881.880,CC,psicologia,20.0000,Si,DR ALVARO BURBANO,Sin información,RIIE
+data/TERAPIA FISICA/juan carlos palacios gonzalez.pdf,6.7600,0.0024,2022/03/30,JUAN CARLOS PALACIOS GONZALEZ,79488341,Cédula de Ciudadanía (CC),Sin información,10.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/Enrique Mierez.pdf,5.4000,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/nicolas ortega .jpeg,5.3000,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/Sara Van Arcken.pdf,7.3600,0.0021,27/04/2022,Sara Van Arcken Becerra,1014889124,CC,psicologia,20.0000,Si,Carolina Ramirez,Sin información,RIIE
+data/TERAPIA FISICA/CARLOS ALBERTO CIFUENTES PINZON.jpeg,5.8500,0.0021,2022/04/29,CARLOS ALBERTO CIFUENTES PINZON,79235484,CEDULA CIUDADANÍA,Sin información,0.0000,Si,Mercedes Y Cabrera Quintan,ECOPETROL SA,RIIE
+data/PSICOLOGIA/SAMUEL MONTENEGRO.jpeg,6.4300,0.0020,06/04/22,Samuel Montenearo Hernandez,111142718625,CC,Sin información,20.0000,Si,B Dussan,ECOPETROL SA,RIIE
+data/PSICOLOGIA/stefany ardilaa.jpeg,5.7800,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/Sebastian veloza.pdf,7.2600,0.0020,12/04/2022,Sin información,1014893968,CC,psicologia,20.0000,Si,Carolina Ramirez,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/DAVID ALEJANDRO ROSAS CHAMARRO.jpeg,6.7900,0.0019,2022/04/06,DAVID ALEJANDRO ROSAS CHAMORRO,Sin información,CC,fisioterapia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MARIA FERNANDA URIBE.jpeg,6.0300,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/Mateo blackburn.pdf,6.9300,0.0022,07/04/2022,Mateo Balckburn,1031426422,CC,terapia-ocupacional,20.0000,Si,Carolina Ramirez,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/juan david serrano aguilar.jpeg,5.1100,0.0019,15/04/22,Sin información,Sin información,CC,fonoaudiologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/tomas mondragon.pdf,10.5800,0.0019,2022/04.01,MAS MONDO!,4894392,Sin información,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/orlando gomez alquichire.pdf,7.7700,0.0024,2022/04/18,ORLANDO GOMEZ ALQUICHIRE,79473744,Cédula de Ciudadanía (CC),Sin información,12.0000,No,MARGARITA MARIA VARGAS DONOSO,ECOPETROL SA,RIIE
+data/PSICOLOGIA/SILVANA AYALA SCHNEIDER.jpeg,5.7200,0.0018,2022/04/27,Sin información,Sin información,CC,psicologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/JUAN DAVID MARTINEZ CONTRERAS.jpeg,5.8100,0.0018,18/4/22,JUAN DAVID MARTINEZ CONTRERAS,,CC,Terapia Ocupacional,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/TERAPIA FISICA/SIMON SAAVEDRAA.jpeg,4.5800,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/ELVIA SILV.jpeg,5.6500,0.0019,26/02/2013,Sin información,Sin información,CC,fisioterapia,510.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/JUAN FRANCISCO REYES DUARTE.jpeg,5.4100,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/ana valentina rendon arteaga.jpeg,5.7000,0.0021,02/04/2022,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/JUAN DIEGO ACOSTA.jpeg,7.0400,0.0022,2022/04/19,JUAN DIEGO ACOSTA FONSECA,1013015627,Tarjeta de Identidad (TI),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/maria luisa o.jpeg,4.8900,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/MARIA ISABEL  ARISTIZABAL CARRERO.pdf,7.9600,0.0023,2022/04/05,JARIA ISABEL ARISTIZABAL CARRERO,43014104,Cédula de Ciudadanía (CC),Sin información,10.0000,No,MARIA FERNANDA LEON PEREZ,Sin información,RIIE
+data/PSICOLOGIA/samuel fernando gomez.jpeg,5.4700,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MATTHIAS ACOSTA.jpeg,5.7400,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/sandra rincon mont.jpeg,5.7100,0.0020,Sin información,SANDRA RINCON MONTERO,51.792.975,CC,Sin información,10.0000,Si,DRA. MILENA OLMOS,Sin información,RIIE
+data/FONOAUDIOLOGIA/ana maria rojas.jpeg,5.4000,0.0019,01/04/22,ANA MARIA ROJAS RUIZ,Sin información,CC,fonoaudiologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/FONOAUDIOLOGIA/matias zapata palacio.jpeg,5.5200,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/IVANNA CAROLINA MURCIA OJEDA (2).pdf,6.8800,0.0024,2022/04/13,VANNA CAROLINA MURCIA OJEDA,1014889187,REGISTRO CIVIL,fonoaudiologia,30.0000,NO,TINA ANGULO,ECOPETROL SA,RIIE
+data/PSICOLOGIA/JUAN JOSE RINCON MUÑOZ.jpeg,5.3800,0.0019,21/04/22,Juan Jose Rincon Muñoz,Sin información,CC,Psicologia,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/ESTEFANY ARDILA.jpeg,5.4800,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/mateo saavedr.jpeg,4.3200,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/ana maria rojas ruiz.jpeg,5.0100,0.0019,25/04/22,ANA MARIA ROJAS RUIZ,111097200873,CC,terapia-ocupacional,20.0000,Si,B Dussán,Sin información,RIIE
+data/TERAPIA OCUPACIONAL/SANTIAGO DIAZ SALINAS.jpeg,5.1000,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/vidal martine.jpeg,4.4900,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/iker obando.pdf,6.9600,0.0024,2022/04/18,IKER KUBLAI OBANDO DIAZ,1016966136,Sin información,terapia-ocupacional,10.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/RICARDO SALCEDO GOMEZ.pdf,5.9100,0.0021,2022/04/22,JUAN CAMILO ORJUELA FLOREZ,1029147881,Tarjeta de Identidad (TI),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/JUAN ANDRES CORDOBA BOHORQUEZ.jpeg,4.8100,0.0018,Sin información,Juan Andres Cordoba Bohorquez,Sin información,CC,terapia-ocupacional,20.0000,Si,Sin información,Sin información,RIIE
+data/PSICOLOGIA/jaime andres pinilla barreto.jpeg,5.7700,0.0022,2022/04/25,JAIME ANDRES PINILLA BARRETO,1035004436,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/ANA MERCEDES SANCHEZ GARCIA.pdf,7.1300,0.0026,2022/04/22,ANA MERCEDES SANCHEZ GARCIA,30343336,Cédula de Ciudadanía (CC),Sin información,10.0000,Sin información,Carlos Aldana Patiño,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/luis miguel diaz sepulveda.jpeg,5.8800,0.0020,2072/04/25,LUIS MIGUEL DIAZ SEPULVEDA,943102,Sin información,psicologia,0.0000,Si,Sin información,Sin información,RIIE
+data/TERAPIA FISICA/LUIS GUILLERMO RUBIO.pdf,6.1700,0.0023,2022/04/11,VIS GUILLERMO RUBIO CRUZ,9048599,Cédula de Ciudadanía (CC),Sin información,10.0000,Sin información,Javier Mauricio Gutierrez Blanco,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/oscar abuchar cha.jpeg,6.2100,0.0019,2022/04/26,OSCAR ABUCHAR CHAMIE,Sin información,CC,fisioterapia,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/juan carlos mosquera.pdf,6.1200,0.0023,2022/04/06,JUAN CARLOS MOSQUERA RAMIREZ,80055096,Cédula de Ciudadanía (CC),Sin información,15.0000,Sin información,Profesional,Sin información,RIIE
+data/PSICOLOGIA/SAMUEL FERNANDO GOMEZ PRAD.jpeg,5.1300,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/mariana medina solanil.jpeg,5.3000,0.0018,Sin información,MARIANA MEDINA SOLANILLA,Sin información,CC,Sin información,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/SANTIAGO OSPINO.jpeg,5.4100,0.0019,17/4/22,SANTIAGO OSPINO RESTREPO,Sin información,CC,Sin información,0.0000,Si,B DUSSÁN,ECOPETROL SA,RIIE
+data/PSICOLOGIA/nicolas solano dav.jpeg,5.2900,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/tomas amaya prada.jpeg,5.4100,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/MARIA BALVINA FORERO DE VALBUENA.pdf,6.8500,0.0025,2022/04/22,JARIA BALVINA FORERO DE VALBUENA,20420032,Cédula de Ciudadanía (CC),Sin información,0.0000,Si,Carlos Aldana Patiño,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/jeronimo mora.pdf,6.8700,0.0020,12/04/2022,Sin información,Sin información,CC,terapia-ocupacional,10.0000,Si,Carolina Ramirez,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/ana m rodriguez.pdf,5.5300,0.0018,18/04/2022,Ana M rodriguez,1014889034,Cédula de Ciudadanía (CC),psicologia,20.0000,Si,Carolina Ramirez,Sin información,RIIE
+data/PSICOLOGIA/adrian jeronimo lesmes ces.jpeg,5.7200,0.0017,2022/04/28,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MAURICIO JAVIER DONADO ORJUELA.pdf,6.7100,0.0024,2022/04/19,AURICIO JAVIER DONADO ORJUELA,1014880792,Tarjeta de Identidad (TI),Sin información,20.0000,No,Sin información,Sin información,RIIE
+data/PSICOLOGIA/johan esteban diaz l.jpeg,4.9900,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/nicolas ortega sepulveda.jpeg,5.0700,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/jeronimo turca mora.jpeg,6.5200,0.0020,2022/04/04,JERONIMO TURCA MORA,REGISTRO CIVIL 1014995498,Sin información,terapia-ocupacional,0.0000,Si,Liliana Ivonne Caicedo Ramirez,Sin información,RIIE
+data/PSICOLOGIA/ANDRES GOYENECHE MANOTAS.jpeg,5.3100,0.0018,22/04/22,ANDRES GOYENECHE MANOTAS,Sin información,CC,psicologia,0.0000,Si,B DUSSÁN,Sin información,RIIE
+data/PSICOLOGIA/silvana ayala.jpeg,5.8300,0.0018,2022/04/27,Sin información,Sin información,CC,psicologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/THOMAS ALVAREZ GARCIA.jpeg,5.7700,0.0019,2022/04/05,THOMAS ALVAREZ GARCIA,1028484966,Tarjeta de Identidad (TI),psicologia,0.0000,Si,Liliana Ivonne Caicedo Ramirez,ECOPETROL SA,RIIE
+data/PSICOLOGIA/elena fonseca gonzal.jpeg,5.1000,0.0018,2022/06/09,Elena Fonseca Gonzal!,890108,CC,psicologia,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/johan esteban diaz lope.jpeg,5.8400,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/marina cru.jpeg,5.2800,0.0020,Sin información,Rina Cruz Ortiz,24241766,Cédula de Ciudadanía (CC),Sin información,20.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/alejandro marin g.jpeg,4.9500,0.0018,Sin información,Sin información,Sin información,CC,psicologia,0.0000,Si,Liliana Ivonne Caicedo Ramirez,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/jeronimo turca mor.jpeg,5.9200,0.0020,2022/04/04,JERONIMO TURCA MORA,REGISTRO CIVIL 1014995498,Sin información,terapia-ocupacional,0.0000,Si,Liliana Ivonne Caicedo Ramirez,Sin información,RIIE
+data/PSICOLOGIA/samuel arenas castil.jpeg,5.1100,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA OCUPACIONAL/nelson alberto castañ.jpeg,5.3400,0.0017,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/TERAPIA FISICA/MARTHA ROCIO BONILLA ALVARAD.jpeg,6.8400,0.0020,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/maria fernanda ur.jpeg,5.2600,0.0019,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/ELENA MACIAS FLOREZ.pdf,5.8400,0.0023,,ELENA MACIAS FLOREZ,1014902336,REGISTRO CIVIL,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/FONOAUDIOLOGIA/NICOLAS ORTEGA SEP.jpeg,5.2600,0.0018,Sin información,Sin información,Sin información,CC,Sin información,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/MATIAS CAMARGO.jpeg,5.8700,0.0019,15/04/22,Matias Camargo Santamaria,1014993539,CC,Sin información,20.0000,Si,B DUSSÁN,Sin información,RIIE
+data/TERAPIA OCUPACIONAL/carolina carrasco diaz.jpeg,5.9300,0.0019,Sin información,CAROLINA CARRASCO DIAZ,Sin información,CC,terapia-ocupacional,0.0000,Si,Sin información,ECOPETROL SA,RIIE
+data/PSICOLOGIA/zaray arias scarpeta.jpeg,5.1900,0.0018,Sin información,ZARAY ARIAS SCARPETTA,1076248774,Tarjeta de Identidad (TI),psicologia,4.0000,Sin información,Sin información,Sin información,RIIE
